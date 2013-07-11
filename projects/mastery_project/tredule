@@ -1,0 +1,8 @@
+{
+  :developers => ["Shane Rogers 1",]
+  :project_name => "Tredule",
+  :project_description => "A treatment schedule reminder app. I know someone whow suffers from fits that are treated with anti-epilepsy drugs. These drugs make him less cognitively aware so he is more likely to forget his medication. I would like to make an app that will serve as a reminder for the patient to take their meds at the prescribed interval and then in the event of a delay due to forgetfulness, their next of kin will be notified so that they can remind the patient.",
+  :backend_technologies => ['?'],
+  :frontend_technologies => ['?']
+  :repo => 'http://github.com/phoenixbox/tredule'
+}
